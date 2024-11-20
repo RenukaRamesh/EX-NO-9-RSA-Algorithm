@@ -142,6 +142,7 @@ int main() {
 }
 ```
 ## Output:
+![Screenshot 2024-11-20 165622](https://github.com/user-attachments/assets/e66a047e-4fa3-4847-a56e-3b18ba02d9e6)
 
 
 ## Result:
